@@ -12,4 +12,5 @@
     4. Switch
 5. Link - will be used to make hyperlinks and allows us to navigate through in our application by using 'to' prop.
 6. the 'to' prop specifies absolute path.
+7. Route - tells to browser like which UI Component will render based on the path given at prop name 'path', which matches with current browser url.
 
